@@ -1,0 +1,23 @@
+{
+  "name": "jsutils",
+  "version": "1.0.0",
+  "description": "javascript utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caoweiju/jsUtils.git"
+  },
+  "keywords": [
+    "js",
+    "utils"
+  ],
+  "author": "caoweiju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caoweiju/jsUtils/issues"
+  },
+  "homepage": "https://github.com/caoweiju/jsUtils#readme"
+}
