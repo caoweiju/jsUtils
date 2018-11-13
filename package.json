@@ -1,5 +1,5 @@
 {
-  "name": "jsutils",
+  "name": "js_com_utils",
   "version": "1.0.0",
   "description": "javascript utils",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "utils"
   ],
   "author": "caoweiju",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/caoweiju/jsUtils/issues"
   },
